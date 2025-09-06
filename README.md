@@ -1,0 +1,2 @@
+# Predicting-User-Spending-in-Digital-Marketing-with-Machine-Learning
+This project focuses on applying Machine Learning to Digital Marketing to predict how much a user will spend on tourism packages and which package they are likely to choose. By leveraging real user behavior data from Google Analytics, this project enables data-driven decisions to optimize marketing strategies and improve user experience.

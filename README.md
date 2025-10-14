@@ -1,10 +1,10 @@
-# 📈 Predicting User Spending in Digital Marketing with Machine Learning
+# Predicting User Spending in Digital Marketing with Machine Learning
 
 This project focuses on applying **Machine Learning** to **Digital Marketing** to predict **how much a user will spend** on tourism packages and which package they are likely to choose. By leveraging real user behavior data from **Google Analytics**, this project enables data-driven decisions to optimize marketing strategies and improve user experience.
 
 Developed by **Nowa Analytics**, a boutique data consultancy specializing in advanced analytics and AI solutions for businesses.
 
----
+
 
 ## 📌 Project Overview
 
@@ -16,7 +16,7 @@ The ability to **anticipate user spending** and behavior allows marketers to:
 
 Even if digital marketing is not part of your day-to-day business, the techniques learned here—especially working with real user datasets—can be applied to other domains for predictive analytics and strategic insights.
 
----
+
 
 ## ⚙️ Project Steps
 
@@ -60,7 +60,7 @@ Even if digital marketing is not part of your day-to-day business, the technique
    * Identify key characteristics of high-spending users
    * Recommend personalized marketing strategies
 
----
+
 
 ## 📁 Project Structure
 
@@ -78,7 +78,6 @@ Even if digital marketing is not part of your day-to-day business, the technique
 └── requirements.txt     # Project dependencies
 ```
 
----
 
 ## 📊 Technologies & Libraries
 
@@ -90,7 +89,7 @@ Even if digital marketing is not part of your day-to-day business, the technique
 * Imbalanced-learn (SMOTE if needed)
 * Jupyter Notebook
 
----
+
 
 ## ✅ Results
 
@@ -99,7 +98,7 @@ Even if digital marketing is not part of your day-to-day business, the technique
 * Segmentation of users to design personalized campaigns
 * Insights to improve website experience and increase conversions
 
----
+
 
 ## 🏢 About Nowa Analytics
 
@@ -108,7 +107,7 @@ Even if digital marketing is not part of your day-to-day business, the technique
 📍 Based in São Paulo, Madrid, and London
 🌐 [nowaanalytics.com](http://nowaanalytics.com) *(replace with real link if available)*
 
----
+
 
 ## 📬 Contact
 
